@@ -47,7 +47,7 @@ function countEvenNumbers(arrayOfNumbers) {
   
     return count;
 }
-console.log()
+
 
  assignment.countEvenNumbers = countEvenNumbers;
 
